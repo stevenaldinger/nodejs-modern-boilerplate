@@ -1,0 +1,10 @@
+# Files
+.babelrc
+.gitignore
+README.md
+
+# Directories
+coverage
+dist/test
+node_modules
+src
